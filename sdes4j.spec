@@ -1,3 +1,5 @@
+%{?_javapackages_macros:%_javapackages_macros}
+
 Summary:	An implementation of the RFC4568 in Java
 Name:		sdes4j
 Version:	1.1.4
